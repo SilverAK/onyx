@@ -1,0 +1,14 @@
+{
+  "name": "onyx",
+  "version": "1.0.0",
+  "description": "A Wings of Fire Bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "talonsofpower",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "file:node_modules/discord.js"
+  }
+}
